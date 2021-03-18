@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba06f2a1-c2ca-4fce-8f52-03a22d4486f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Front-end/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-end/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Front-end" />
+  </component>
+  <component name="ProjectId" id="1pnhw2GSb4nLk4JEPGBb48Xp8j4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba06f2a1-c2ca-4fce-8f52-03a22d4486f7" name="Default Changelist" comment="" />
+      <created>1615824996976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615824996976</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615825239908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1615825239908" />
+    <state x="168" y="120" width="1200" height="584" key="AVDManager" timestamp="1616076064933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="168" y="120" width="1200" height="584" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1616076064933" />
+    <state x="586" y="159" key="AndroidProcessChooserDialog" timestamp="1615890211803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="159" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1615890211803" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1615906289849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615906289849" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1615906282989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615906282989" />
+    <state x="426" y="189" key="run.anything.popup" timestamp="1615906279707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1615906279707" />
+  </component>
+</project>
